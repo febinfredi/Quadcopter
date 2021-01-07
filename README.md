@@ -16,3 +16,23 @@ PID loop was implemeted for flight stabilization.
 P, I and D values are not optimal as even after many trial and error, I could not find the optimal values which made quad very wobbly.
 MPU6050 had no magnetometer hence yaw control was not without error as gyro drift was always present
 
+Microcontroller:
+Arduino Nano
+
+Sensors:
+MPU6050 IMU,
+ nrf24l01 pa + lna
+
+Modules:
+AMS1117 3.3V regulator, 
+ Simonk 30A esc
+
+Motors:
+1400KV Brushless motors
+
+Propellers:
+9x4.5 propeller
+
+Body:
+FR4 Fiber board and 5mm thick wooden sticks
+
