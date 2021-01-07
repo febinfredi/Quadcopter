@@ -2,6 +2,8 @@
 
 Quadcopter
 
+Note: This was my first quad project and was a learning curve for me and so the quad after completetion was unstable in flight and was very hard to control and crashed everytime within 15 to 20 seconds after takeoff. But this project was a challenge and was basically to increase my knowledge in drones which it did unquestionably.  
+
 Control module:
 Entire control module is DIY.
 MPU6050 used for IMU which is not the best but still manageable.
